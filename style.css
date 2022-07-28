@@ -43,13 +43,17 @@ main .explore-text {
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991px) {
   .explore-para {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
+  }
+
+  .join-half{
+    width: 100% !important;
   }
 }
 
