@@ -9,17 +9,15 @@ body {
 header .reg-btn {
   width: 65%;
 }
-
 main .explore-text {
   width: 80%;
 }
-/* responsive */
 
+/* responsive */
 @media (max-width: 767px) {
   header .slider-content {
     width: 90%;
   }
-
   header .slider img {
     height: 600px;
     object-fit: cover;
@@ -28,11 +26,9 @@ main .explore-text {
     width: 100%;
     object-fit: cover;
   }
-
   .explore-content {
     position: static !important;
   }
-
   .explore-text {
     position: static !important;
     top: 0 !important;
@@ -41,8 +37,7 @@ main .explore-text {
     width: 100% !important;
     padding: 20px 10px;
   }
-
-  .faq{
+  .faq {
     width: 100% !important;
   }
 }
@@ -55,14 +50,10 @@ main .explore-text {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
   }
-
-  .join-half{
+  .join-half {
     width: 100% !important;
   }
-}
-
-@media (min-width: 992px) {
   .heading-text {
-    width: 50% !important;
+    width: 90% !important;
   }
 }
