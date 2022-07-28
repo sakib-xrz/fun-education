@@ -41,6 +41,10 @@ main .explore-text {
     width: 100% !important;
     padding: 20px 10px;
   }
+
+  .faq{
+    width: 100% !important;
+  }
 }
 
 @media (max-width: 991px) {
