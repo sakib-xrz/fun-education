@@ -25,4 +25,14 @@ header .slider-content {
     height: 600px;
     object-fit: cover;
   }
+  main #course .course-image{
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 992px) {
+  .heading-text{
+    width: 50% !important;
+  }
 }
