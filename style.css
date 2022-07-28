@@ -39,6 +39,7 @@ main .explore-text {
     left: 0 !important;
     transform: none !important;
     width: 100% !important;
+    padding: 20px 10px;
   }
 }
 
